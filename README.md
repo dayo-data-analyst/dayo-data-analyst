@@ -143,15 +143,17 @@ I am passionate about helping organizations make data-driven decisions and am cu
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-📧 Email: **dayorex7@gmail.com**
+📧 **Email:** dayorex7@gmail.com
 
-💼 LinkedIn:
-****
+💼 **LinkedIn:** [dayo-afariogun](https://www.linkedin.com/in/dayo-afariogun)
 
-🌍 Location:
-Lagos, Nigeria
+💻 **GitHub:** [dayo-data-analyst](https://github.com/dayo-data-analyst)
+
+🌍 **Location:** Lagos, Nigeria
+
+🇮🇪 **Open to Relocate:** Ireland
 
 ---
 
