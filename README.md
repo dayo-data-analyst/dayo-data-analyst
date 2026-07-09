@@ -1,10 +1,19 @@
 # Hi there! 👋 I'm Dayo Rex Afariogun
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=2E86C1&center=true&vCenter=true&width=800&lines=Data+Analyst;SQL+Developer;Power+BI+Developer;Python+Data+Analyst;Business+Intelligence+Enthusiast)](https://git.io/typing-svg)
+
 ### 📊 Data Analyst | SQL | Python | Power BI | Excel | Business & Financial Intelligence
 
 Transforming raw data into actionable insights that drive smarter business decisions.
 
 ---
+
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-Analysis-217346?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=for-the-badge)
 
 ## 👨‍💻 About Me
 
