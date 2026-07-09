@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="My Banner Data Analyst" src="https://github.com/user-attachments/assets/e44736e9-fa4e-4bb3-ae8d-06aadfbef534" />
+
 # Hi there! 👋 I'm Dayo Rex Afariogun
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=2E86C1&center=true&vCenter=true&width=800&lines=Data+Analyst;SQL+Analyst;Power+BI+Analyst;Python+Data+Analyst;Business+and+Financial+Intelligence+Enthusiast)](https://git.io/typing-svg)
