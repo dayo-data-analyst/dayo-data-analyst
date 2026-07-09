@@ -153,7 +153,7 @@ I am passionate about helping organizations make data-driven decisions and am cu
 
 🌍 **Location:** Lagos, Nigeria
 
-🇮🇪 **Open to Relocate:** Ireland
+ **Open to Relocate:** Ireland
 
 ---
 
