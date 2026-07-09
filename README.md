@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dayo Rex Afariogun
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=2E86C1&center=true&vCenter=true&width=800&lines=Data+Analyst;SQL+Analyst;Power+BI+Analyst;Python+Data+Analyst;Business+&+Financial+Intelligence+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=2E86C1&center=true&vCenter=true&width=800&lines=Data+Analyst;SQL+Analyst;Power+BI+Analyst;Python+Data+Analyst;Business+and+Financial+Intelligence+Enthusiast)](https://git.io/typing-svg)
 
 ### 📊 Data Analyst | SQL | Python | Power BI | Excel | Business & Financial Intelligence
 
