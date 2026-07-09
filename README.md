@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dayo Rex Afariogun
 
-### 📊 Data Analyst | SQL | Python | Power BI | Excel | Business Intelligence
+### 📊 Data Analyst | SQL | Python | Power BI | Excel | Business & Financial Intelligence
 
 Transforming raw data into actionable insights that drive smarter business decisions.
 
@@ -10,7 +10,7 @@ Transforming raw data into actionable insights that drive smarter business decis
 
 I'm a passionate **Data Analyst** with a background in **Accounting** and hands-on experience building end-to-end analytics projects using **SQL, Python, Power BI, and Microsoft Excel**.
 
-I enjoy transforming complex datasets into meaningful insights through data cleaning, exploratory data analysis (EDA), dashboard development, KPI reporting, and business intelligence solutions.
+I enjoy transforming complex datasets into meaningful insights through data cleaning, exploratory data analysis (EDA), dashboard development, KPI reporting, and business & Financial intelligence solutions.
 
 I'm currently building a strong portfolio while seeking **Data Analyst opportunities in Ireland**, where I can apply analytical thinking to solve real-world business problems.
 
@@ -35,10 +35,11 @@ I'm currently building a strong portfolio while seeking **Data Analyst opportuni
 - Matplotlib
 - Seaborn
 
-### 💾 Databases
+### 💾 Databases & Cloud
 - SQL Server
 - MySQL
-
+- Microsoft Azure
+  
 ### 📈 Business Skills
 - Business Intelligence
 - Financial Analysis
@@ -110,6 +111,10 @@ Performed exploratory data analysis (EDA), sales performance analysis, customer 
 
 University of Lagos
 
+🎓 **Data Analytics Certification**
+
+Codar Tech Africa, Lagos
+
 ---
 
 # 🌍 Career Goal
@@ -119,6 +124,8 @@ I am passionate about helping organizations make data-driven decisions and am cu
 - Data Analyst
 - Business Intelligence Analyst
 - Reporting Analyst
+- Financial Analyst
+- Healthcare Analyst
 - Business Data Analyst
 
 📍 Open to relocation and employment opportunities in **Ireland**.
@@ -130,7 +137,7 @@ I am passionate about helping organizations make data-driven decisions and am cu
 📧 Email: **dayorex7@gmail.com**
 
 💼 LinkedIn:
-*(Add your LinkedIn profile link here)*
+****
 
 🌍 Location:
 Lagos, Nigeria
