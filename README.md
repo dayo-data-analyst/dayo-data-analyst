@@ -157,19 +157,19 @@ Lagos, Nigeria
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayo-data-analyst&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayo-data-analyst&show_icons=true&theme=default&cache_seconds=86400)
 
 ---
 
 # 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayo-data-analyst&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayo-data-analyst&layout=compact&cache_seconds=86400)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dayo-data-analyst)
+![GitHub Streak](https://streak-stats.demolab.com?user=dayo-data-analyst&theme=default)
 
 ---
 
