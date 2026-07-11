@@ -19,7 +19,7 @@ Transforming raw data into actionable insights that drive smarter business decis
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Data Analyst** with a background in **Accounting** and hands-on experience building end-to-end analytics projects using **SQL, Python, Power BI, and Microsoft Excel**.
+I am a **Lead Data Analyst** and **Business Intelligence Specialist** with over **14 years of experience** transforming business operations through data-driven decision-making. I have background in **Accounting** and hands-on experience building end-to-end analytics projects using **SQL, Python, Power BI, and Microsoft Excel**.
 
 I enjoy transforming complex datasets into meaningful insights through data cleaning, exploratory data analysis (EDA), dashboard development, KPI reporting, and business & Financial intelligence solutions.
 
