@@ -291,6 +291,12 @@ Lagos, Nigeria
 
 ---
 
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=dayo-data-analyst)
+
+---
+
 > 💬 *"Without data, you're just another person with an opinion."*  
 > **— W. Edwards Deming**
 
