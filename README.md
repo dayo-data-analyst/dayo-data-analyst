@@ -2,11 +2,12 @@
 
 # Hi there! 👋 I'm Dayo Rex Afariogun
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=2E86C1&center=true&vCenter=true&width=800&lines=Data+Analyst;SQL+Analyst;Power+BI+Analyst;Python+Data+Analyst;Business+and+Financial+Intelligence+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=2E86C1&center=true&vCenter=true&width=800&lines=Senior+Business+Analyst;Financial+Data+Analystics;SQL+Analyst;Power+BI+Analyst;Python+Analyst;Excel+Data+Analyst)](https://git.io/typing-svg)
 
-### 📊 Data Analyst | SQL | Python | Power BI | Excel | Business & Financial Intelligence
+## 📊 Senior Business Analyst | Financial Data Analytics | Business Intelligence
 
-Transforming raw data into actionable insights that drive smarter business decisions.
+Transforming complex data into strategic business decisions through analytics, finance, and technology.
+
 
 ---
 
@@ -17,154 +18,286 @@ Transforming raw data into actionable insights that drive smarter business decis
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=for-the-badge)
 
-## 👨‍💻 About Me
 
-I am a **Senior Data Analyst** and **Business Intelligence Specialist** with over **14 years of experience** transforming business operations through data-driven decision-making. I have background in **Accounting** and hands-on experience building end-to-end analytics projects using **SQL, Python, Power BI, and Microsoft Excel**.
+# 👨‍💼 About Me
 
-I enjoy transforming complex datasets into meaningful insights through data cleaning, exploratory data analysis (EDA), dashboard development, KPI reporting, and business & Financial intelligence solutions.
+I am a **Business Analyst** and **Financial Data Analytics Professional** with over **14 years of experience** delivering business transformation, financial analysis, and operational improvement through data-driven decision-making.
 
-I'm currently building a strong portfolio while seeking **Data Analyst opportunities in Ireland**, where I can apply analytical thinking to solve real-world business problems.
+My background combines a **Bachelor's degree in Accounting** with modern analytics expertise in **SQL, Python, Power BI, and Microsoft Excel**, enabling me to bridge the gap between finance, business, and technology.
+
+I enjoy solving business problems by analysing complex datasets, designing executive dashboards, uncovering commercial insights, and helping organisations make confident, evidence-based decisions.
+
+🎓 Recently, I completed an intensive **Data Analytics Programme** with a **96% technical score**, further strengthening my expertise in SQL, Python, Power BI, automation, and business intelligence.
+
+🚀 **Currently seeking opportunities in Ireland as:**
+
+- 📊 Data Analyst
+- 📈 Business Intelligence Analyst
+- 💼 Business Analyst
+- 💰 Financial Analyst
+- 📉 Commercial Analyst
+- 📋 Reporting Analyst
 
 ---
 
-## 🛠️ Technical Skills
+# 🌟 Professional Highlights
 
-### 📊 Data Analysis
+✔️ **14+ Years** of Business Analysis & Financial Analytics
+
+✔️ **B.Sc. in Accounting**
+
+✔️ **96% Technical Score** in Professional Data Analytics
+
+✔️ **End-to-End Analytics Portfolio Projects**
+
+✔️ SQL • Python • Power BI • Advanced Excel
+
+✔️ Open to Relocation to **Ireland**
+
+✔️ Passionate about Financial Analytics & Business Intelligence
+
+---
+
+# 🛠️ Core Expertise
+
+## 📊 Data Analytics
+
 - SQL
 - Python
-- Microsoft Excel
-- Power BI
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Data Visualization
-- Dashboard Development
-- KPI Reporting
-
-### 📚 Python Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
-### 💾 Databases & Cloud
-- SQL Server
-- MySQL
-- Microsoft Azure
-  
-### 📈 Business Skills
-- Business Intelligence
-- Financial Analysis
-- Sales Analytics
-- Credit Risk Analysis
-- Healthcare Data Analytics
-- Reporting & Storytelling
+- Statistical Analysis
+- Data Modelling
+- Data Visualisation
 
 ---
 
-# 🚀 Featured Projects
+## 📈 Business Intelligence
+
+- Power BI
+- Microsoft Excel
+- Power Query
+- Dashboard Development
+- KPI Reporting
+- Executive Reporting
+
+---
+
+## 💰 Financial Analytics
+
+- Financial Analysis
+- Budgeting & Forecasting
+- Commercial Performance
+- Revenue Analytics
+- Credit Risk Analysis
+- Business Performance Monitoring
+
+---
+
+## 🤝 Business Analysis
+
+- Business Process Improvement
+- Stakeholder Management
+- Business Reporting
+- Decision Support
+- Requirements Analysis
+- Strategic Planning
+
+---
+
+# 🚀 Featured Portfolio Projects
 
 ## 📈 Commercial Revenue & Sales Intelligence
 
-An end-to-end sales analytics project using SQL and Microsoft Excel that uncovers revenue trends, customer segmentation, regional performance, and executive KPIs.
+### 🎯 Business Problem
 
-**Tools**
-- SQL
-- Microsoft Excel
+Businesses require timely visibility into revenue trends and customer performance to support strategic growth.
 
----
+### 💡 Solution
 
-## ❤️ Healthcare Insurance Cost Analysis
+Developed a commercial analytics solution using **SQL** and **Microsoft Excel** that analyses sales performance, customer segmentation, profitability, and executive KPIs.
 
-Analyzed healthcare insurance data using SQL and Power BI to identify key drivers of insurance costs through interactive dashboards and business insights.
+### 📌 Business Value
 
-**Tools**
-- SQL
-- Power BI
+- 📊 Revenue trend analysis
+- 👥 Customer segmentation
+- 🌍 Regional performance analysis
+- 📈 Executive dashboard
+
+### 🛠 Tools
+
+`SQL` `Microsoft Excel`
 
 ---
 
 ## 💳 Credit Risk Assessment
 
-Developed a credit risk analytics solution using SQL and Power BI to analyze customer credit profiles, loan approval trends, and default risks.
+### 🎯 Business Problem
 
-**Tools**
-- SQL
-- Power BI
+Financial institutions require accurate credit risk assessment to improve lending decisions and reduce portfolio risk.
+
+### 💡 Solution
+
+Developed an interactive **Power BI** dashboard analysing customer credit profiles, loan approvals, credit scores, and default risk.
+
+### 📌 Business Value
+
+- ⚠️ Credit risk monitoring
+- 👥 Customer risk segmentation
+- 💳 Lending insights
+- 📊 Portfolio analysis
+
+### 🛠 Tools
+
+`SQL` `Power BI`
 
 ---
 
-## 🏦 Loan Risk Audit Analysis
+## 🏦 Loan Risk & Audit Analysis
 
-Performed loan portfolio analysis using SQL, identifying approval trends, high-risk borrowers, loan performance, and audit insights.
+### 🎯 Business Problem
 
-**Tools**
-- SQL
-- SQL Server
+Loan portfolios require continuous monitoring to identify anomalies and high-risk borrowers.
+
+### 💡 Solution
+
+Used SQL to perform advanced loan portfolio analysis and identify audit findings, approval trends, and potential default risks.
+
+### 📌 Business Value
+
+- 📊 Loan portfolio monitoring
+- 🔍 Audit analytics
+- ⚠️ Risk identification
+- 📈 Executive reporting
+
+### 🛠 Tools
+
+`SQL` `SQL Server`
+
+---
+
+## ❤️ Healthcare Insurance Cost Analysis
+
+### 🎯 Business Problem
+
+Healthcare insurance providers require better understanding of the factors driving insurance costs.
+
+### 💡 Solution
+
+Analysed healthcare insurance datasets using SQL and Power BI to identify pricing drivers and cost patterns.
+
+### 📌 Business Value
+
+- 💰 Cost analysis
+- 📊 Risk insights
+- 📈 Interactive dashboards
+- 💡 Data-driven recommendations
+
+### 🛠 Tools
+
+`SQL` `Power BI`
 
 ---
 
 ## 🛒 Superstore Sales Analysis (Python)
 
-Performed exploratory data analysis (EDA), sales performance analysis, customer segmentation, and data visualization using Python.
+### 🎯 Business Problem
 
-**Tools**
+Retail organisations require data-driven insights to improve sales performance and profitability.
+
+### 💡 Solution
+
+Performed exploratory data analysis using Python to identify customer behaviour, sales trends, and product performance.
+
+### 📌 Business Value
+
+- 📈 Sales analysis
+- 👥 Customer segmentation
+- 💹 Profitability analysis
+- 💡 Business recommendations
+
+### 🛠 Tools
+
+`Python` `Pandas` `NumPy` `Matplotlib and Seaborn`
+
+---
+
+# 💻 Technical Stack
+
+## 💡 Programming
+
+- SQL
 - Python
+
+### 📊 Analytics
+
+- Power BI
+- Microsoft Excel
+- Power Query
+
+### 🐍 Python Libraries
+
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 
+### 🗄 Databases
+
+- SQL Server
+- MySQL
+
+### ☁️ Cloud
+
+- Microsoft Azure
+
 ---
 
-# 📜 Education
+# 🎓 Education
 
-🎓 **B.Sc. Accounting**
+## 🎓 Bachelor of Science (B.Sc.)
+
+**Accounting**
 
 University of Lagos
 
-🎓 **Data Analytics Certification**
+### 🎓 Professional Data Analytics Programme
 
-Codar Tech Africa, Lagos
+Codar Tech Africa
 
----
-
-# 🌍 Career Goal
-
-I am passionate about helping organizations make data-driven decisions and am currently seeking opportunities as a:
-
-- Data Analyst
-- Business Intelligence Analyst
-- Reporting Analyst
-- Financial Analyst
-- Healthcare Analyst
-- Business Data Analyst
-
-📍 Open to relocation and employment opportunities in **Ireland**.
+🏅 **Technical Score:** **96%**
 
 ---
 
-## 📫 Connect With Me
+# 🌍 Let's Connect
 
-📧 **Email:** dayorex7@gmail.com
+📧 **Email**
 
-💼 **LinkedIn:** [dayo-afariogun](https://www.linkedin.com/in/dayo-afariogun)
+**dayorex7@gmail.com**
 
-💻 **GitHub:** [dayo-data-analyst](https://github.com/dayo-data-analyst)
+💼 **LinkedIn**
 
-🌍 **Location:** Lagos, Nigeria
+linkedin.com/in/dayo-afariogun
 
- **Open to Relocate:** Ireland
+💻 **GitHub**
+
+github.com/dayo-data-analyst
+
+📍 **Location**
+
+Lagos, Nigeria
+
+🇮🇪 **Open to Relocation to Ireland**
 
 ---
 
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=dayo-data-analyst)
+> 💬 *"Without data, you're just another person with an opinion."*  
+> **— W. Edwards Deming**
 
 ---
 
-## ⭐ Thanks for visiting my profile!
+## ⭐ Thank You for Visiting!
 
-If you like my projects, feel free to ⭐ star the repositories and connect with me.
+If you enjoy my work, feel free to ⭐ **star my repositories**, explore my analytics projects, or connect with me on LinkedIn.
 
-Let's transform data into impactful business decisions!
+### 🚀 Let's transform data into smarter business decisions together!
