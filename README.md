@@ -287,7 +287,7 @@ github.com/dayo-data-analyst
 
 Lagos, Nigeria
 
-🇮🇪 **Open to Relocation to Ireland**
+ **Open to Relocation to Ireland**
 
 ---
 
